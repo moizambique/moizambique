@@ -1,12 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on: Personal projects that challenge my understanding and push me to explore more. Whether it's a small app or a complex algorithm, I'm all in for the learning experience.<br>
+<ul>
+  🔭 I’m currently working on: Personal projects that challenge my understanding and push me to explore more. Whether it's a small app or a complex algorithm, I'm all in for the learning experience.<br>
 🌱 I’m currently learning: Advanced coding techniques and diving into Software Engineering, Algorithms, CyberSecurity, and Artificial Intelligence.<br>
 👯 I’m looking to collaborate on: Anything that lets me code, learn, and contribute. If you're working on a project that could use an extra pair of hands or a fresh perspective, count me in!<br>
 🤔 I’m looking for help with: Navigating the vast landscape of tech internships. If you have insights on scoring internships in Software Engineering or AI, I'm all ears. Let's share knowledge and grow together!<br>
 💬 Ask me about: My coding journey, the projects I've worked on, or anything tech-related. I love discussing ideas, sharing knowledge, and learning from others' experiences.<br>
 📫 How to reach me: Drop me a message here on GitHub or LinkedIN. I'm always open to conversations and new connections.<br>
 😄 Pronouns: He/Him<br>⚡ Fun fact: Outside of coding, I'm an elite-class powerlifter and rugby player. I enjoy exploring different sports and FPS games. My favorite animal is cat.
-
+<ul/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moizambique) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moizambique) 
